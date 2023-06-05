@@ -1,0 +1,41 @@
+channel,targetAudience,message,cost,id
+Email,Women,50% off sale,1000,1  
+Social Media,Men,30% off sale,1500,1  
+Direct Mail,Women,Free shipping,2000,2  
+Social Media,Men,20% off sale,1000,2  
+Email,All,New product launch,3000,3  
+Social Media,All,New product launch,2500,3  
+Direct Mail,All,Seasonal sale,5000,4  
+Social Media,All,Seasonal sale,4000,4  
+Email,All,Flash sale,2000,5  
+Social Media,All,Flash sale,3000,5  
+Direct Mail,Men,New product launch,1500,6  
+Social Media,Women,New product launch,2000,6  
+Email,All,Seasonal sale,4000,7  
+Social Media,All,Seasonal sale,3500,7  
+Direct Mail,All,Flash sale,3000,8  
+Social Media,All,Flash sale,2500,8  
+Email,Women,50% off sale,1000,9  
+Social Media,Men,30% off sale,1500,9  
+Direct Mail,Women,Free shipping,2000,10  
+Social Media,Men,20% off sale,1000,10  
+Email,All,New product launch,3000,11  
+Social Media,All,New product launch,2500,11  
+Direct Mail,All,Seasonal sale,5000,12  
+Social Media,All,Seasonal sale,4000,12  
+Email,All,Flash sale,2000,13  
+Social Media,All,Flash sale,3000,13  
+Direct Mail,Men,New product launch,1500,14  
+Social Media,Women,New product launch,2000,14  
+Email,All,Seasonal sale,4000,15  
+Social Media,All,Seasonal sale,3500,15  
+Direct Mail,All,Flash sale,3000,16  
+Social Media,All,Flash sale,2500,16  
+Email,Women,50% off sale,1000,17  
+Social Media,Men,30% off sale,1500,17  
+Direct Mail,Women,Free shipping,2000,18  
+Social Media,Men,20% off sale,1000,18  
+Email,All,New product launch,3000,19  
+Social Media,All,New product launch,2500,19  
+Direct Mail,All,Seasonal sale,5000,20  
+Social Media,All,Seasonal sale,4000,20  
